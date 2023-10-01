@@ -46,4 +46,9 @@ Programming language: Python (3.5 or higher)
 
 The main difference between MEDLA and current latent data assimilation methods consists of the multi-domain encoder-decoder as shown in the figure below
 
+![all_LA](https://github.com/DL-WG/MEDLA-Multi-domain-encoder-decoder-neural-networks-for-latent-data-assimilation-in-dynamical-systems/assets/28357071/5b82813e-061f-4315-be48-79cdb302086d)
+
+The entire pipeline of MEDLA with reduced order predictive model is depicted in the following flowchart
+
+![flowchart_MEDLA](https://github.com/DL-WG/MEDLA-Multi-domain-encoder-decoder-neural-networks-for-latent-data-assimilation-in-dynamical-systems/assets/28357071/d7bd516a-c5d2-4d12-a746-d1c66bffa3eb)
 
