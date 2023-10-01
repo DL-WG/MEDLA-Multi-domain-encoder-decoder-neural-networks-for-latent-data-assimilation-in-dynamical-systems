@@ -52,3 +52,4 @@ The entire pipeline of MEDLA with reduced order predictive model is depicted in 
 
 ![flowchart_MEDLA](https://github.com/DL-WG/MEDLA-Multi-domain-encoder-decoder-neural-networks-for-latent-data-assimilation-in-dynamical-systems/assets/28357071/d7bd516a-c5d2-4d12-a746-d1c66bffa3eb)
 
+The code of GLA (Generalised Latent Assimilation) used in this study is available at https://github.com/DL-WG/GLA_with_ROSM
